@@ -1,4 +1,4 @@
-#Portfolio
+# Portfolio
 
 A visually striking, interactive 3D portfolio powered by **Vite**, **Three.js**, and **GSAP**. Built for speed, creativity, and deployment on **GitHub Pages**.
 
